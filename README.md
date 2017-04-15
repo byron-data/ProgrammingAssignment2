@@ -1,4 +1,4 @@
-## R-Programming-Assignment-2
+## R Programming Assignment 2
 R Programming by Johns Hopkins University on Coursera
 
 ### Introduction
