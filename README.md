@@ -1,5 +1,7 @@
-### Introduction
+## R-Programming-Assignment-2
+R Programming by Johns Hopkins University on Coursera
 
+### Introduction
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
@@ -13,7 +15,6 @@ the R language and how they can be manipulated to preserve state inside
 of an R object.
 
 ### Example: Caching the Mean of a Vector
-
 In this example we introduce the `<<-` operator which can be used to
 assign a value to an object in an environment that is different from the
 current environment. Below are two functions that are used to create a
@@ -63,7 +64,6 @@ function.
     }
 
 ### Assignment: Caching the Inverse of a Matrix
-
 Matrix inversion is usually a costly computation and there may be some
 benefit to caching the inverse of a matrix rather than computing it
 repeatedly (there are also alternatives to matrix inversion that we will
@@ -101,5 +101,4 @@ In order to complete this assignment, you must do the following:
     the completed R code for the assignment.
 
 ### Grading
-
 This assignment will be graded via peer assessment.
